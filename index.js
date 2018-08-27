@@ -23,8 +23,14 @@ function dec(a) {
   return a -= 1;
 }
 
-function makeInt(a) {
+function makeInt() {
+  if (makeInt(a)) {
   return parseInt('a');
+  }
+  if (makeInt ('0x2328')) {
+    return parseInt('0x2328', 10);
+  }
+  if (makeInt )
 }
 
 function makeInt() {
