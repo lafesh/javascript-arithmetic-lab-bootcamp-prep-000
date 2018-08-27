@@ -27,7 +27,7 @@ function makeInt(n) {
   if (makeInt(a)) {
   return parseInt('a');
   }
-  if (makeInt('0x2328')) {
+  if (makeInt('0*2328')) {
     return parseInt('0*2328', 10);
   }
   if (makeInt('sldkjflksjf')) {
