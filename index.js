@@ -34,5 +34,8 @@ function makeInt() {
 function preserveDecimal() {
   if (parseFloat ('2.222')) {
     return parseFloat ('2.222');
+  }
+  if (parseFloat ('sldkjflksjf')) {
+    return parseFloat;
+  }
 }
- else 
