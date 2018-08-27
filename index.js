@@ -24,7 +24,7 @@ function dec(a) {
 }
 
 function makeInt(n) {
-  if (parseInt(a)) {
+  if (parseInt('a')) {
   return parseInt('a');
   }
   if (parseInt('0*2328')) {
