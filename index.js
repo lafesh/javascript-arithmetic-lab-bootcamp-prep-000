@@ -28,11 +28,6 @@ function makeInt(n) {
 }
 
 
-function preserveDecimal() {
-  if (parseFloat ('2.222')) {
-    return parseFloat ('2.222');
-  }
-  if (parseFloat ('sldkjflksjf')) {
-    return parseFloat ('sldkjflksjf');
-  }
+function preserveDecimal(n) {
+ return parseFloat(n, 10)
 }
