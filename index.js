@@ -23,6 +23,6 @@ function dec(a) {
   return a -= 1;
 }
 
-function parseInt(a){
-  return "a";
+function makeInt(a){
+  return parseInt('a');
 }
