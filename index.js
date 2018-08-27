@@ -35,9 +35,6 @@ function makeInt(n) {
   }
 }
 
-function makeInt() {
-   return parseInt('0x2328', 10);
-}
 
 function preserveDecimal() {
   if (parseFloat ('2.222')) {
