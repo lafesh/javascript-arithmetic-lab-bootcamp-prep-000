@@ -24,13 +24,13 @@ function dec(a) {
 }
 
 function makeInt(n) {
-  if (makeInt(a)) {
+  if (parseInt(a)) {
   return parseInt('a');
   }
-  if (makeInt('0*2328')) {
+  if (parseInt('0*2328')) {
     return parseInt('0*2328', 10);
   }
-  if (makeInt('sldkjflksjf')) {
+  if (parseInt('sldkjflksjf')) {
     return parseInt('sldkjflksjf', 10)
   }
 }
