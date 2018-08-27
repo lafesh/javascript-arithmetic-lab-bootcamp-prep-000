@@ -26,3 +26,7 @@ function dec(a) {
 function makeInt(a){
   return parseInt('a');
 }
+
+function makeInt() {
+   return parseInt('0x2328', 10);
+}
