@@ -36,6 +36,6 @@ function preserveDecimal() {
     return parseFloat ('2.222');
   }
   if (parseFloat ('sldkjflksjf')) {
-    return parseFloat;
+    return parseFloat ('sldkjflksjf');
   }
 }
